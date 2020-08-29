@@ -8,6 +8,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/16-Updated-Portfolio)
+![GitHub last commit](https://img.shields.io/github/last-commit/TBragg800/16-Updated-Portfolio)
 
 ## Walkthrough Video Demonstration: 
 ![Walkthrough]()
